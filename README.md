@@ -1,9 +1,12 @@
 # Hi there 👋
 
 
+> - 24y
+> - SK8
 > - I’m currently working on learning more!!
 > - I’m currently learning: Flutter 
 > - How to reach me: brunotillmannd@gmail.com
+> 
 
 
 <center>
