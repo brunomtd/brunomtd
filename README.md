@@ -2,7 +2,7 @@
 
 
 > - 24y
-> - SK8
+> - SKT
 > - I’m currently working on learning more!!
 > - I’m currently learning: Flutter 
 > - How to reach me: brunotillmannd@gmail.com
